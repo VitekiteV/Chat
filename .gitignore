@@ -1,0 +1,10 @@
+/ChatServer_console
+/ChatServer/build*
+/ChatClient/build*
+
+*/*/*
+!*/*/*.cpp
+!*/*/*.h
+!*/*/*.ui
+!*/*/*.user
+!*/*/*.pro
